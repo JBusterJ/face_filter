@@ -80,5 +80,5 @@ function draw(){
 
 
 function take_snapshot(){
-    save('JaisalClown.png');
+    save('Clown.png');
 }
